@@ -1,0 +1,31 @@
+SFML : 
+
+Mechanics : features and objects of the game that defie the working of the game
+Assets : anything that you need to make the game :  ex: graphics, sound(upwork.com ; freesound.org ; bfxr.net(open source software) ), font(1001freefonts.com/komika_poster.font)
+
+Sprite : A visual, 2-D game object, such as a character or a zombie is called a sprite. it is made from an image file. all sprites have an origin. 
+
+ZOMBIE ARENA
+fonts(1001freefonts.com/zombie_control.font
+
+Sprite sheet: set of images either frames of animations or totally into visual graphics contained in image file
+sfml allows us to load sprite sheets as a texture
+-texture coordinates
+
+vertex: single graphical point or coordinate, defined by horizontal and vertical position
+primitive types: point, line, triangle, quad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
